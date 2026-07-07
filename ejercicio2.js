@@ -11,3 +11,4 @@ while(intento != pinCorrento){
     intento = Number (prompt("Ingresa tu pin:   "));
 }
 console.log("Pin correcto")
+

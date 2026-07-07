@@ -12,3 +12,5 @@ while(intento != pinCorrento){
 }
 console.log("Pin correcto")
 
+//Que pasa si olvidas pedir el intento dentro del bucle?
+//se crea un bucle infinito y se detiene al volver a solicitar que ingrese por teclado el pin

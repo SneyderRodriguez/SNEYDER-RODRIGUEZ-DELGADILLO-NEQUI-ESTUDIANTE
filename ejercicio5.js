@@ -1,4 +1,6 @@
-let usuario1 = [45000, -60000, 8900000, -20000];
-let usuario2 = [38000, 550000, -150000, 1200000];
-let usuario3 = [-50000, 780000, -1000000, 50000];
-
+let usuarios = [{nombre: "Juan", movimientos: [250000, -50000, 30000]},
+{nombre: "Ana", movimientos: [100000, -25000]}, {nombre: "Pedro", movimientos: [50000, 20000, -10000]}];
+for(let i; i < usuarios.length; i++){
+    let totalUsuario = 0
+    for(let j; j < movimientos.length; j++){}
+}
